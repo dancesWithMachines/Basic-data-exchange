@@ -1,0 +1,13 @@
+C:\Users\Timax\source\repos\Weather-info xml generator\Weather-info xml generator\bin\Debug\Weather-info xml generator.exe.config
+C:\Users\Timax\source\repos\Weather-info xml generator\Weather-info xml generator\bin\Debug\Weather-info xml generator.exe
+C:\Users\Timax\source\repos\Weather-info xml generator\Weather-info xml generator\bin\Debug\Weather-info xml generator.pdb
+C:\Users\Timax\source\repos\Weather-info xml generator\Weather-info xml generator\bin\Debug\en\Weather-info xml generator.resources.dll
+C:\Users\Timax\source\repos\Weather-info xml generator\Weather-info xml generator\obj\Debug\Weather-info xml generator.csprojAssemblyReference.cache
+C:\Users\Timax\source\repos\Weather-info xml generator\Weather-info xml generator\obj\Debug\Weather_info_xml_generator.Form1.resources
+C:\Users\Timax\source\repos\Weather-info xml generator\Weather-info xml generator\obj\Debug\Weather_info_xml_generator.Properties.Resources.resources
+C:\Users\Timax\source\repos\Weather-info xml generator\Weather-info xml generator\obj\Debug\Weather_info_xml_generator.Form1.en.resources
+C:\Users\Timax\source\repos\Weather-info xml generator\Weather-info xml generator\obj\Debug\Weather-info xml generator.csproj.GenerateResource.cache
+C:\Users\Timax\source\repos\Weather-info xml generator\Weather-info xml generator\obj\Debug\Weather-info xml generator.csproj.CoreCompileInputs.cache
+C:\Users\Timax\source\repos\Weather-info xml generator\Weather-info xml generator\obj\Debug\en\Weather-info xml generator.resources.dll
+C:\Users\Timax\source\repos\Weather-info xml generator\Weather-info xml generator\obj\Debug\Weather-info xml generator.exe
+C:\Users\Timax\source\repos\Weather-info xml generator\Weather-info xml generator\obj\Debug\Weather-info xml generator.pdb

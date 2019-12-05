@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<WeatherInfo No="2">
+  <now date="04.12.2019" time="13:14:25">
+    <description>Różyny</description>
+    <dateInfo>
+      <day>Wednesday</day>
+      <month>grudzień</month>
+      <year>2019</year>
+      <fullDate>04.12.2019</fullDate>
+      <time>13:14:25</time>
+    </dateInfo>
+    <data>
+      <temperature>23.24*C</temperature>
+      <pressure>101539.92Pa</pressure>
+      <appHeight>38.12m.n.p.m</appHeight>
+      <light>33.71%</light>
+      <machineName>AGENTPLANETZUYH</machineName>
+    </data>
+  </now>
+  <then date="04.12.2019" time="12:53:23">
+    <description>Kebaby so smaczne</description>
+    <dateInfo>
+      <fullDate>04.12.2019</fullDate>
+      <time>12:53:23</time>
+    </dateInfo>
+    <data>
+      <temperature>23.25*C</temperature>
+      <pressure>101562.52Pa</pressure>
+      <appHeight>44.51m.n.p.m</appHeight>
+      <light>28.11%</light>
+      <machineName>AGENTPLANETZUYH</machineName>
+    </data>
+  </then>
+</WeatherInfo>
